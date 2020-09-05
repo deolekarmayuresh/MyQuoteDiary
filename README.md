@@ -1,4 +1,4 @@
-# My Quote Diary
+# My Quote Diary 📖
 
 > A Vuejs Project
 
